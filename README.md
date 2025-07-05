@@ -1,3 +1,5 @@
+# E-commerce Product Image Evaluator (EPIC)
+
 # Context Note
 
 ## Chosen Scenario & Micro-Task
